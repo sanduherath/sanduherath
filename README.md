@@ -1,122 +1,202 @@
-# Hi there! I'm Sandunika Herath 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1;Problem+Solver+%E2%9C%A8" alt="Typing SVG" />
+  <a href="#">
+    <img width="100%" src="https://github.com/yourusername/yourusername/blob/main/github_cover_image.png" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
-## 🌸 About Me
-
-I'm a passionate **Web Developer** currently pursuing my Higher National Diploma in Information Technology at SLIATE and diving deep into AI/ML engineering. I believe in creating beautiful, user-centric digital experiences that make a difference.
-
-- 🎓 Currently studying **HND in Information Technology** at SLIATE
-- 🤖 Learning **AI/ML Engineering** to expand my technical horizons
-- 💻 Experienced in **Java, Python, PHP** and web technologies
-- 🌱 Always eager to learn new technologies and tackle challenging projects
-- 💡 Passionate about creating solutions that enhance user experiences
-- 📍 Based in Sri Lanka 🇱🇰
-
-## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF69B4,100:9932CC&text=I%20am%20Sandunika%20Herath&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
+</div>
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3 align="center" style="color:#FF69B4;">Crafted with Code, Driven by Innovation.</h3>
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Web+Developer+%7C+AI%2FML+Enthusiast;Building+User-Centric+Digital+Experiences;Pursuing+HND+in+Information+Technology;Turning+Ideas+into+Interactive+Solutions" alt="Typing Animation" />
+</div>
 
-### Architecture
-![MVC](https://img.shields.io/badge/MVC_Architecture-FF6B9D?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-FF69B4?style=for-the-badge)
+<div align="center" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&style=for-the-badge&color=9932CC&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=9932CC&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%2B%20AI%2FML-FF69B4?style=for-the-badge&labelColor=000000" alt="Focus" />
+</div>
+<br/>
+
+```javascript
+const sandunika = {
+  name: "Sandunika Herath",
+  location: "Dippitigoda, Menikdiwela, Sri Lanka",
+  email: "sanduherath0905@gmail.com",
+  code: ["Java", "Python", "PHP", "JavaScript", "HTML", "CSS"],
+  askMeAbout: ["Web Development", "AI/ML", "Object-Oriented Programming", "MVC Architecture"],
+  technologies: {
+    frontend: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+    backend: ["PHP", "Java", "Python", "MVC Architecture"],
+    database: ["MySQL"],
+    tools: ["Git", "Object-Oriented Programming"]
+  },
+  currentlyLearning: [
+    "Higher National Diploma in Information Technology - SLIATE",
+    "AI/ML Engineering Course - SLIIT",
+    "Advanced Web Development Technologies"
+  ],
+  education: {
+    current: "SLIATE - HND in IT (2023-Present)",
+    aiml: "SLIIT - AI/ML Engineer Course",
+    foundation: "IBA Campus - English & Communication (2018)",
+    advanced: "Seethadevi Girls' College - A/L Physical Science (2022)",
+    ordinary: "Seethadevi Girls' College - O/L (2017)"
+  },
+  softSkills: [
+    "Leadership", "Teamwork", "Problem-solving", 
+    "Communication", "Time Management", "Presentation"
+  ],
+  languages: {
+    english: "Proficient",
+    sinhala: "Native"
+  },
+  funFact: "I believe in creating user-centric solutions that enhance digital experiences! ✨"
+};
+
+console.log(`
+   ============================================
+   🌸 Welcome to my coding journey
+   👩‍💻 I am a developer, passionate about innovation.
+   💡 My code is clean. My projects are impactful. My learning never stops.
+   🚀 I design. I develop. I innovate.
+   ✨ Building tomorrow's digital experiences today.
+   🎯 This is my path to tech excellence.
+   ============================================
+`);
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
+
+<h3 align="center">Current Focus & Goals :</h3>
+<div align="center">
+<br/>
+  
+| 🌸 **Working On** | 💜 **Learning** | 🌸 **Next Goals** |
+|:-------:|:-------:|:-------:|
+| Library Management System | AI/ML Engineering | Advanced Web Frameworks |
+| Clothing Management Website | Cloud Foundations | Full-Stack Development |
+| Cinema Management Platform | Advanced Java & Python | Open Source Contribution |
 
 </div>
 
-## 🌟 Featured Projects
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-### 📚 Library Management System
-*Built with Java & MVC Architecture*
-- Developed as part of 2nd-year Java module at SLIATE Kandy
-- Implemented Object-Oriented Programming principles
-- Features structured code design and efficient user interactions
-- Showcases strong understanding of MVC architecture
+<h3 align="center">Featured Projects :</h3>
+<div align="center">
 
-### 👗 Smart Clothing Management Website
-*HTML, CSS & JavaScript*
-- User-friendly and responsive platform
-- Manages clothing inventory and sales efficiently
-- Demonstrates frontend development skills
+### 📚 Library Management System (SLIATE Kandy)
+*Java • MVC Architecture • Object-Oriented Programming*
+> Comprehensive library management solution showcasing structured code design and efficient user interactions
+
+### 👗 Smart Clothing Management Website (SLIATE Kandy)  
+*HTML • CSS • JavaScript • Responsive Design*
+> User-friendly platform for managing clothing inventory and sales with modern web technologies
 
 ### 🎬 Cinema Management Website
-*Full-Stack Web Application*
-- Professional, user-centric interface design
-- Features seamless ticket booking system
-- Includes movie scheduling and customer engagement tools
-- Built with HTML, CSS, and JavaScript
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
-</div>
-
-## 🏆 Achievements
-
-- 🎓 **Cloud Foundations for Aspiring IT Professionals** - NextGen Campus
-- 💼 **Website Admin Experience** - A Plus Education, Kandy
-- 📈 **Trainee Experience** - Regional Development Bank (April 2022 - May 2023)
-- 🎯 **G.C.E Advanced Level** - Physical Science Stream (2022)
-
-## 💪 Soft Skills
-
-<div align="center">
-
-![Teamwork](https://img.shields.io/badge/Teamwork-FF69B4?style=flat-square)
-![Leadership](https://img.shields.io/badge/Leadership-FF1493?style=flat-square)
-![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-DC143C?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-FF6347?style=flat-square)
-![Time%20Management](https://img.shields.io/badge/Time%20Management-FF4500?style=flat-square)
-![Presentation](https://img.shields.io/badge/Presentation-FF8C00?style=flat-square)
+*HTML • CSS • JavaScript • User Experience Design*
+> Professional cinema platform featuring ticket booking, movie scheduling, and customer engagement
 
 </div>
 
-## 🌐 Languages
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-- **English**: Proficient 🇬🇧
-- **Sinhala**: Native 🇱🇰
+<h3 align="center">GitHub Analytics :</h3>
+<div align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&show_icons=true&count_private=true"/>
+  
+<br/>
+<br/>
 
-## 📫 Let's Connect!
+  [![sandunika's current streak](https://streak-stats.demolab.com/?user=yourusername&count_private=true&theme=radical)](#)
+  
+</td>
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+</div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandu-herath-aa9864327)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanduherath0905@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0752735746)
+<h3 align="center">Experience & Achievements :</h3>
+<div align="center">
+
+### 💼 Professional Experience
+- **Website Admin** - A Plus Education, Kandy
+- **Trainee** - Regional Development Bank, Danthure (April 2022 - May 2023)
+
+### 🏆 Certifications & Courses
+- **Cloud Foundations for Aspiring IT Professionals** - NextGen Campus
+- **Diploma Foundation in English & Communication** - IBA Campus
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
+
+<h3 align="center">Let's Connect :</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/sandu-herath-aa9864327" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sandunika-linkedin" height="50" width="50" /></a>
+<a href="mailto:sanduherath0905@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
+</div>
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
+
+<h3 align="center">Tech Arsenal :</h3>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse"/> 
+ <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css"/>  
+ <img src="https://skillicons.dev/icons?i=mysql,git,github"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </div>
 
 <div align="center">
-  <i>"Passionate about creating user-centric solutions that drive innovation in technology"</i> ✨
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
+
+<h3 align="center">Soft Skills :</h3>
+<div align="center">
+
+![Leadership](https://img.shields.io/badge/Leadership-FF69B4?style=for-the-badge&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-9932CC?style=for-the-badge&logoColor=white)
+![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-FF1493?style=for-the-badge&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-DA70D6?style=for-the-badge&logoColor=white)
+![Time%20Management](https://img.shields.io/badge/Time%20Management-BA55D3?style=for-the-badge&logoColor=white)
+![Presentation](https://img.shields.io/badge/Presentation-DDA0DD?style=for-the-badge&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF69B4,100:9932CC" />
+</div>
+<br/>
