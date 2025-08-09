@@ -1,19 +1,19 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sandunika%20Herath!&fontSize=80&fontColor=ffffff&color=0:8b5cf6,50:a855f7,100:c084fc&animation=fadeIn" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sandunika%20Herath!&fontSize=80&fontColor=ffffff&color=0:374151,50:6b7280,100:9ca3af&animation=fadeIn" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%7C+Web+Developer;Building+Digital+Health+Solutions;Passionate+About+Clean+Code;Laravel+%26+Java+Enthusiast;Always+Learning+%26+Growing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=374151&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%7C+Web+Developer;Building+Digital+Health+Solutions;Passionate+About+Clean+Code;Laravel+%26+Java+Enthusiast;Always+Learning+%26+Growing" alt="Typing Animation" />
 </div>
 
-<h3 align="center" style="color:#A855F7;">🚀 Crafting Digital Solutions with Purpose</h3>
+<h3 align="center" style="color:#374151;">🚀 Crafting Digital Solutions with Purpose</h3>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/github/followers/sanduherath?label=Followers&style=for-the-badge&color=C084FC&labelColor=8B5CF6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-A855F7?style=for-the-badge&labelColor=8B5CF6" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Kandy%2C%20Sri%20Lanka-C084FC?style=for-the-badge&labelColor=8B5CF6" alt="Location" />
+  <img src="https://img.shields.io/github/followers/sanduherath?label=Followers&style=for-the-badge&color=9CA3AF&labelColor=374151" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-6B7280?style=for-the-badge&labelColor=374151" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Kandy%2C%20Sri%20Lanka-9CA3AF?style=for-the-badge&labelColor=374151" alt="Location" />
 </div>
 
 ---
@@ -134,20 +134,16 @@ console.log(`
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanduherath&theme=tokyonight&show_icons=true&count_private=true&border_color=A855F7&title_color=8B5CF6&icon_color=C084FC&text_color=E5E7EB&bg_color=1F2937"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanduherath&theme=github_dark&show_icons=true&count_private=true&border_color=6B7280&title_color=F3F4F6&icon_color=9CA3AF&text_color=D1D5DB&bg_color=1F2937"/>
   
   <br/><br/>
   
-  <img align="center" src="https://streak-stats.demolab.com/?user=sanduherath&theme=tokyonight&border=A855F7&ring=8B5CF6&fire=C084FC&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=sanduherath&theme=github-dark-blue&border=6B7280&ring=374151&fire=9CA3AF&currStreakLabel=F3F4F6&sideLabels=F3F4F6&dates=D1D5DB"/>
   
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanduherath&theme=tokyonight&layout=compact&border_color=A855F7&title_color=8B5CF6&text_color=E5E7EB&bg_color=1F2937"/>
-  
-  <br/><br/>
-  
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sanduherath&theme=tokyo-night&color=A855F7&line=C084FC&point=8B5CF6&area=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanduherath&theme=github_dark&layout=compact&border_color=6B7280&title_color=F3F4F6&text_color=D1D5DB&bg_color=1F2937"/>
   
 </td>
 </tr>
@@ -241,31 +237,24 @@ console.log(`
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sanduherath0905@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-6B7280?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sanduherath" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="tel:+94752735746" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-C084FC?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Phone-9CA3AF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sanduherath&theme=tokyonight&border_color=A855F7&title_color=8B5CF6&text_color=E5E7EB&bg_color=1F2937" alt="Wakatime Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:374151,50:6b7280,100:9ca3af" />
 </div>
 
----
+<h4 align="center">⚫ Thanks for visiting! Let's build innovative solutions together 🚀</h4>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,50:a855f7,100:c084fc" />
-</div>
-
-<h4 align="center">💜 Thanks for visiting! Let's build innovative solutions together 🚀</h4>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanduherath&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sanduherath&label=Profile%20Views&color=6B7280&style=for-the-badge" alt="Profile Views" />
 </div>
